@@ -3,7 +3,7 @@
 Data Engineer & AI/ML Engineer focused on building scalable data pipelines, cloud workflows, and applied machine learning projects.
 
 ## Tech
-Python![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) · SQL · Spark · AWS · Azure · Snowflake · Airflow · Power BI · Tableau
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) · SQL · Spark · AWS · Azure · Snowflake · Airflow · Power BI · Tableau
 
 ## Featured Work
 - Data engineering projects with ETL pipelines, cloud storage, and analytics workflows
