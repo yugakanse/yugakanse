@@ -17,8 +17,8 @@ Data Engineer & AI/ML Engineer focused on building scalable data pipelines, clou
 - **Analytics Project** – SQL + dashboard-based business insights
 
 ## Links
-- [LinkedIn](https://www.linkedin.com/)
+- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/yuga-kanse-9ba8b9189/))
 - [Portfolio](https://)
-- [Tableau](https://public.tableau.com/)
+- [Tableau]([https://public.tableau.com/](https://public.tableau.com/app/profile/yuga.santosh.kanse/vizzes))
 
 ---
