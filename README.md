@@ -18,7 +18,7 @@ Data Engineer & AI/ML Engineer focused on building scalable data pipelines, clou
 
 ## My Latest Projects
 ***CFA Financial Research Q/A Chatbot with Report Generation***
-![Architecture](./images/CFA.drawio.png)
+![Architecture](./CFA.drawio.png)
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/yuga-kanse-9ba8b9189/)
