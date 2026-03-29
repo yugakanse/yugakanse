@@ -20,6 +20,11 @@ Data Engineer & AI/ML Engineer focused on building scalable data pipelines, clou
 ***CFA Financial Research Q/A Chatbot with Report Generation*** 🔗 [View Project](https://github.com/BigData-Fall2024-Team4/Assignment-3)
 ![Architecture](./CFA.drawio.png)
 
+***CanvasGPT: AI Chatbot Agent for Canvas LMS*** 🔗 [View Project](https://github.com/BigData-Fall2024-Team4/Final-Project)
+![Architecture](./airflow.png)
+![Data Ingestion Airflow](./airflow.png)
+(./update1.png)
+
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/yuga-kanse-9ba8b9189/)
 - [Portfolio](https://)
