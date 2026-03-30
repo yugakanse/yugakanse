@@ -17,6 +17,9 @@ Data Engineer & AI/ML Engineer focused on building scalable data pipelines, clou
 - **Analytics Project** – SQL + dashboard-based business insights
 
 ## My Latest Projects
+***Clinical & Regulatory Recommendation Systems using Healthcare Data*** 🔗
+![Architecture](./rs.drawio.png)
+ 
 ***CFA Financial Research Q/A Chatbot with Report Generation*** 🔗 [View Project](https://github.com/BigData-Fall2024-Team4/Assignment-3)
 ![Architecture](./CFA.drawio.png)
 
